@@ -1,0 +1,25 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DotDumper.cpp
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(40,64): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(45,68): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(51,38): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(73,70): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(80,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(84,59): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(87,87): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(90,79): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(94,86): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(116,70): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(122,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(126,59): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(129,91): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(132,83): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(136,86): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(147,70): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(154,61): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(158,59): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\John\Source\Repos\DotDumperNative\DotDumperNative\DotDumper.cpp(161,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+     Creating library C:\Users\John\Source\Repos\DotDumperNative\x64\Debug\DotDumperNative.lib and object C:\Users\John\Source\Repos\DotDumperNative\x64\Debug\DotDumperNative.exp
+  DotDumperNative.vcxproj -> C:\Users\John\Source\Repos\DotDumperNative\x64\Debug\DotDumperNative.dll

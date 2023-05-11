@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DotDumper.cpp
+  Generating Code...
+     Creating library C:\Users\John\Source\Repos\DotDumperNative\Debug\DotDumperNative.lib and object C:\Users\John\Source\Repos\DotDumperNative\Debug\DotDumperNative.exp
+  DotDumperNative.vcxproj -> C:\Users\John\Source\Repos\DotDumperNative\Debug\DotDumperNative.dll
